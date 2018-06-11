@@ -1,2 +1,2 @@
 # PHP
-This is a language that I have only some experience with.
+This is a language that I have limited experience with.
