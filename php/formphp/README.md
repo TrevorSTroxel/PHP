@@ -1,5 +1,6 @@
-# form input to a mariadb database using php
- <pre>
+# Form input to a mariadb database using php
+
+<pre>
 This is a php mysql (mariaBD) application 
  Cody by C Coleman(Tri-Tech)
 - create table code:
